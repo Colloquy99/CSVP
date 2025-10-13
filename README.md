@@ -18,6 +18,14 @@ Wabbajack Modlist Installer by **TheConversation**.
 </tr>
 </table>
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 ## Preamble
 
 Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Next Generation Visual Overhaul' from Biggie_Boss.  This is my take on his baseline, it is not a one-to-one baseline as there were quite a few things changed visually to my personal tastes. This list will require a fresh install of Skyrim: Anniversary Edition, and Wabbajack Installer (Please see the Read Me for Spec Recommendations and Space Requirements). It is intended as a packaged Vanilla Plus experience that can be played immediately with minimal effort.
