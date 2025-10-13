@@ -1,7 +1,7 @@
 # CSVP - Colloquy's Skyrim Vanilla Plus
 Wabbajack Modlist Installer by **TheConversation**.
 
-![Image]({{ site.baseurl }}/assets/csvp/Nexus-Banner-FULL.png)
+![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/headers/135701_1757861613.jpg)
 
 <table style="border: none;">
 <tr>
