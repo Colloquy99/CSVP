@@ -6,6 +6,7 @@ Wabbajack Modlist Installer by **TheConversation**.
 <table style="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/135701">Nexus Page</a></td>
+<td><a href="https://themoddingbungalo.com/lists/csvp/index/">Wiki</a></td>
 <td align="center">
   <a href="https://github.com/wabbajack-tools/wabbajack/releases">
     <img alt="Wabbajack" src="/assets/wabbajack.png" width="64px" >
@@ -14,7 +15,6 @@ Wabbajack Modlist Installer by **TheConversation**.
 <td><a href="https://loadorderlibrary.com/lists/csvp-colloquy-s-skyrim-vanilla-plus-a-ngvo-fork-2">Load Order Library</a></td>
 <td><a href="https://loadorderlibrary.com/lists/csvp-performance">Load Order Library (Performance)</a></td>
 <td align="center"><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
-<td><a href="https://themoddingbungalo.com/lists/csvp/index/">Wiki</a></td>
 </tr>
 </table>
 
