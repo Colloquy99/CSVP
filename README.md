@@ -28,7 +28,7 @@ Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Nex
 
 Owing to the need to clean master files and certain errors with Wabbajack, CSVP only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-:warning: :exclamation: **CSVP REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :warning: :exclamation:
+:warning: **CSVP REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :warning:
 
 ### Recommended System Requirements
 
@@ -81,7 +81,7 @@ Prior to installing, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-:warning: :exclamation: **NOTE**: CSVP will **always** require the latest version of Wabbajack. :warning: :exclamation:
+:exclamation: **NOTE**: CSVP will **always** require the latest version of Wabbajack. :exclamation:
 
 ----------------------------------------------------
 
@@ -132,10 +132,7 @@ CSVP also utilizes Root Builder alongside Stock Game to enable easier management
 ## Starting up the list:
 Open the installation folder and double-click on the program called ModOrganizer.exe.
 
-{: .warning}
->**Warning**
->
->The first time you open Mod Organizer 2 the CC Files will not be in their Separator. In the left panel, place them in the "CORE FILES" Separator (above the 'Cleaned Plugins' Mod so it can overwrite them), this is optional but will look cleaner.
+:warning: :exclamation: **Warning:** The first time you open Mod Organizer 2 the CC Files will not be in their Separator. In the left panel, place them in the "CORE FILES" Separator (above the 'Cleaned Plugins' Mod so it can overwrite them), this is optional but will look cleaner. :warning: :exclamation:
 
 Widescreen Users should pay attention to the noted Separators and Mods to ensure everything will be correct upon loading in.
 
