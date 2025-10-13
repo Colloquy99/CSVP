@@ -28,8 +28,7 @@ Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Nex
 
 Owing to the need to clean master files and certain errors with Wabbajack, CSVP only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-{: .warning}
-**CSVP REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** 
+:warning: :exclamation: **CSVP REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :warning: :exclamation:
 
 ### Recommended System Requirements
 
@@ -58,15 +57,6 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ----------------------------------------------------
 
-{: .important}
->**Message from Modlist Author**
->
->This isn't an *"ongoing project"* or anything, it is simply my personal Modlist that I wanted to make accessible for the people close to me.
->
->That being said please don't expect the work of an expert, I am only a passionate fan. This list was built to be easy as possible to configure, you're at liberty to do so as you please.
-
-----------------------------------------------------
-
 ## Installation
 
 Installing CSVP is relatively easy and, if you have Nexus Premium, will be a simple waiting game.
@@ -91,8 +81,7 @@ Prior to installing, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-{: .important}
-**NOTE**: CSVP will **always** require the latest version of Wabbajack.
+:warning: :exclamation: **NOTE**: CSVP will **always** require the latest version of Wabbajack. :warning: :exclamation:
 
 ----------------------------------------------------
 
