@@ -141,7 +141,7 @@ Make sure the dropdown box on the right is set to 'CSVP - A NGVO Fork' and press
 ----------------------------------------------------
 
 ### In-game MCM options:
-CSVP should have no required MCM options to be selected unless you are a controller user; to use a controller you will set the Dual Wield Block Key of the Valhalla Combat MCM from V to L1, and run the Controller Config (ON) recording in MCM Recorder. To disable simply run those steps backwards, see the FAQ in our Discord for video instructions if needed.
+CSVP should have no required MCM options to be selected unless you are a controller user; to use a controller you will set the Dual Wield Block Key of the Valhalla Combat MCM from V to L1, run the Controller Config (ON) recording in MCM Recorder, and lastly Open & Close the moreHUD MCM. To disable simply run those steps backwards (moreHUD step excluded), see the FAQ in our Discord for video instructions if needed.
 
 You are welcome to change any/all others to achieve your desired setup.
 
