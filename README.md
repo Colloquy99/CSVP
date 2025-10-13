@@ -6,8 +6,7 @@ Wabbajack Modlist Installer by **TheConversation**.
 <table style="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/135701">Nexus Page</a></td>
-<td align="center">
-  <a href="https://github.com/wabbajack-tools/wabbajack/releases">
+<td align="center"><a href="https://github.com/wabbajack-tools/wabbajack/releases">
   </a>
 </td>	
 <td><a href="https://loadorderlibrary.com/lists/csvp-colloquy-s-skyrim-vanilla-plus-a-ngvo-fork-2">Load Order Library</a></td>
