@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "CSVP - A NGVO Fork",
+    "description": "Vanilla Focused modlist built upon the visuals in 'Next Generation Visual Overhaul'. It is intended as a packaged experience, but is sparing enough in sweeping overhauls to allow customization",
+    "author": "TheConversation",
+    "maintainers": [
+      "github/Colloquy99"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Anniversary Edition",
+      "Immersive",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/images/1704/13165815-1760406398.png",
+      "readme": "https://github.com/Colloquy99/CSVP/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/CSVP%20-%20A%20NGVO%20Fork.wabbajack_58bc878a-6ad4-400a-aacb-fad5feb22699",
+      "machineURL": "CSVP",
+      "discordURL": "https://discord.gg/bungalo"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "kQpCH8vd6OI=",
+      "Size": 1073034681,
+      "NumberOfArchives": 1986,
+      "SizeOfArchives": 160569852562,
+      "NumberOfInstalledFiles": 192027,
+      "SizeOfInstalledFiles": 202650914700,
+      "TotalSize": 363220767262
+    },
+    "version": "2.5.6"
+  }
+]
