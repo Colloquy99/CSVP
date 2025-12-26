@@ -1,40 +1,44 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "CSVP - A NGVO Fork",
-    "description": "Vanilla Focused modlist built upon the visuals in 'Next Generation Visual Overhaul'. It is intended as a packaged experience, but is sparing enough in sweeping overhauls to allow customization",
+    "description": "Vanilla Focused modlist built upon the visuals in \u0027Next Generation Visual Overhaul\u0027. It is intended as a packaged experience, but is sparing enough in sweeping overhauls to allow customization",
     "author": "TheConversation",
     "maintainers": [
       "github/Colloquy99"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Anniversary Edition",
       "Immersive",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/images/1704/13165815-1760406398.png",
       "readme": "https://github.com/Colloquy99/CSVP/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CSVP%20-%20A%20NGVO%20Fork.wabbajack_5edc5ae8-467d-4415-ad45-c7b7abcb21d6",
+      "download": "https://authored-files.wabbajack.org/CSVP - A NGVO Fork.wabbajack_8f5330cf-2202-454f-a5af-33e23ff796c1",
       "machineURL": "CSVP",
-      "discordURL": "https://discord.gg/bungalo"
+      "discordURL": "https://discord.gg/bungalo",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "0jAaaWPt1Ao=",
-      "Size": 1319736123,
+      "Hash": "PTZ9b6GMMdI=",
+      "Size": 1311455916,
       "NumberOfArchives": 2011,
-      "SizeOfArchives": 161532047911,
-      "NumberOfInstalledFiles": 196721,
-      "SizeOfInstalledFiles": 204365439294,
-      "TotalSize": 365897487205
+      "SizeOfArchives": 161670030316,
+      "NumberOfInstalledFiles": 197461,
+      "SizeOfInstalledFiles": 204211351698,
+      "TotalSize": 365881382014
     },
-    "version": "2.7.1"
+    "version": "2.7.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-12-26T10:00:12.8190896Z",
+    "repositoryName": ""
   }
 ]
