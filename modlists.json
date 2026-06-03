@@ -22,24 +22,24 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/images/1704/13165815-1760406398.png",
       "readme": "https://github.com/Colloquy99/CSVP/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CSVP - A NGVO Fork.wabbajack_a5ee02ec-1fd1-4c74-918a-f095bbe26a57",
+      "download": "https://authored-files.wabbajack.org/CSVP - A NGVO Fork.wabbajack_7c36ecaa-a19a-46c6-92d6-44c7a897b54d",
       "machineURL": "CSVP",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "U3JcEYiyW2w=",
-      "Size": 1393797275,
-      "NumberOfArchives": 2048,
-      "SizeOfArchives": 158208330485,
-      "NumberOfInstalledFiles": 177001,
-      "SizeOfInstalledFiles": 195936661118,
-      "TotalSize": 354144991603
+      "Hash": "iXIzH3CoqjY=",
+      "Size": 1393834164,
+      "NumberOfArchives": 2051,
+      "SizeOfArchives": 158209236188,
+      "NumberOfInstalledFiles": 177011,
+      "SizeOfInstalledFiles": 195939051826,
+      "TotalSize": 354148288014
     },
-    "version": "2.9",
+    "version": "2.9.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-19T17:40:54.774588Z",
+    "dateUpdated": "2026-06-03T16:55:57.5906532Z",
     "repositoryName": ""
   }
 ]
